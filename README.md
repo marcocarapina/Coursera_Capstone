@@ -1,2 +1,2 @@
-# gitsub-python_ds
+# Coursera_Capstone
 GitHub for apps Python DataSciense
